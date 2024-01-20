@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToduListApp</string>
+
+    <!--  Common Searchbar  -->
+    <string name="realha_todu_list_common_search_bar_hint_search">Search</string>
+    <string name="realha_todu_list_common_error_title">Something went wrong.</string>
+
+    <!--  Todu List Detail  -->
+    <string name="realha_todu_list_detail_edit_text_hint">Enter Title</string>
+    <string name="realha_todu_list_detail_edit_header_title">Edit</string>
+    <string name="realha_todu_list_detail_edit_header_save">Save</string>
+
+</resources>
