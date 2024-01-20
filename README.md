@@ -19,4 +19,4 @@ https://github.com/paleeguijob/ToduListAppCompose/assets/110875704/ab769b5c-6f43
 
 
 
-Project Created by RealAOFRealHON (Rattapong Paleegui) don't Coppyright. (RealHA Only)
+Project Created by RealAOFRealHON (Rattapong Paleegui) don't Copyright. (RealHA Only)
